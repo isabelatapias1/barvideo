@@ -1,0 +1,137 @@
+{
+    "initialState": {
+      "mylist": [],
+      "trends": [
+        {
+          "id": 2,
+          "slug": "leader",
+          "title": "Yuta",
+          "type": "NCT 127",
+          "language": "Korean and English",
+          "year": 2009,
+          "contentRating": "16+",
+          "duration": 164,
+          "cover": "https://i.pinimg.com/originals/1e/b8/2f/1eb82f7ac33ae90afa4093fa65b417a6.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 3,
+          "slug": "Vocalist",
+          "title": "Mark lee",
+          "type": "NCT 127 ",
+          "language": "English",
+          "year": 2002,
+          "contentRating": "16+",
+          "duration": 137,
+          "cover": "https://ih1.redbubble.net/image.381869961.0126/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 4,
+          "slug": "vocalist",
+          "title": "Jaehyun",
+          "type": "Comedy",
+          "language": "English",
+          "year": 2014,
+          "contentRating": "16+",
+          "duration": 163,
+          "cover": "https://ih1.redbubble.net/image.381589967.2274/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 5,
+          "slug": "Dance leader",
+          "title": "WinWIn",
+          "type": "Scripted",
+          "language": "English",
+          "year": 2014,
+          "contentRating": "16+",
+          "duration": 194,
+          "cover": "https://i.pinimg.com/originals/f4/c6/6f/f4c66ffc797d6fb02012e5b40b10bd10.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 6,
+          "slug": "Vocalist",
+          "title": "JungWoo",
+          "type": "Scripted",
+          "language": "English",
+          "year": 2017,
+          "contentRating": "16+",
+          "duration": 124,
+          "cover": "https://64.media.tumblr.com/b7d7b1881125f3d6bd2cd17a855af0c0/tumblr_pgpot97b0L1wmu7jio2_r1_500.png",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 7,
+          "slug": "tvshow-7",
+          "title": "Taeyong",
+          "type": "Drama",
+          "language": "English",
+          "year": 2011,
+          "contentRating": "16+",
+          "duration": 179,
+          "cover": "https://0.soompi.io/wp-content/uploads/2017/06/06095344/nct-taeyong-2.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 8,
+          "slug": "tvshow-8",
+          "title": "Haechan",
+          "type": "Action",
+          "language": "English",
+          "year": 2012,
+          "contentRating": "16+",
+          "duration": 148,
+          "cover": "https://0.soompi.io/wp-content/uploads/2017/06/07082319/nct-127-haechan-2.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 9,
+          "slug": "tvshow-9",
+          "title": "Johny",
+          "type": "Action",
+          "language": "English",
+          "year": 2019,
+          "contentRating": "16+",
+          "duration": 128,
+          "cover": "https://0.soompi.io/wp-content/uploads/2017/06/08081359/nct-127-johnny-2.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 10,
+          "slug": "tvshow-10",
+          "title": "Doyoung",
+          "type": "Animation",
+          "language": "English",
+          "year": 2011,
+          "contentRating": "16+",
+          "duration": 346,
+          "cover": "https://ih1.redbubble.net/image.381208362.1651/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 11,
+          "slug": "tvshow-11",
+          "title": "Taeil",
+          "type": "War",
+          "language": "English",
+          "year": 2015,
+          "contentRating": "16+",
+          "duration": 226,
+          "cover": "https://ih1.redbubble.net/image.381871468.0169/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        }        
+      ]
+    }
+  }

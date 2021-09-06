@@ -36,7 +36,18 @@ module.exports = {
         'sass-loader',
            ],
       },
-    ],
+      {
+        test: /\.(png|gif|jpg)$/,
+        use: [
+        {
+          'loader': 'file-loader',
+          options: {
+            name:'assest/[hash].[ext]'
+             }
+          }
+        ]
+      }
+    ]
   },
   plugins: [
     new HtmlWebpackPlugin({
