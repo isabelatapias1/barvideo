@@ -3,17 +3,17 @@ import '../assets/styles/components/CarouselItem.scss';
 import playIcon from '../assets/static/play-Icon.png';
 import plusIcon from '../assets/static/plus-Icon.png';
 
-const CarouselItem = ({ cover, Nombre, profesion, edad }) => (
+const CarouselItem = ({ cover, title, year, contentRating, duration }) => (
     <div className="carousel-item">
-    <img className="carousel-item__img" src={cover} alt={Nombre}  />
+    <img className="carousel-item__img" src={cover} alt={title}  />
     <div className="carousel-item__details">
       <div>
         <img className="carousel-item__details--img" src = {playIcon} alt="Play Icon"/> 
         <img className="carousel-item__details--img" src = {plusIcon} alt="Plus Icon"/> 
       </div>
-      <p className="carousel-item__details--title">{Nombre}</p>
-      <p className="carousel-item__details--subtitle">{{profesion}}</p>
-      <p className="carousel-item__details--subtitle">{{edad}}</p>
+      <p className="carousel-item__details--title">{title}</p>
+      <p className="carousel-item__details--subtitle">{`${year} ${contentRating} ${duration}`}</p>
+    
     </div>
   </div>
 );
@@ -21,3 +21,4 @@ const CarouselItem = ({ cover, Nombre, profesion, edad }) => (
  export default CarouselItem; 
 
 
+ 

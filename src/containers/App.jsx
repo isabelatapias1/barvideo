@@ -10,7 +10,7 @@ import Footer from '../components/Footer';
 import '../assets/styles/App.scss'
 
 const App = ( ) => {
-    const [ videos, setVideos ] = useState({ mylist: [], trends: [], originals: [] });
+    const [videos, setVideos] = useState({ mylist: [], trends: [], originals: [] });
     useEffect(() => {
         fetch('http://localhost:3000/initialState')
         .then(response => response.json())
