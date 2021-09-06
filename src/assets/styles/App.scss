@@ -1,5 +1,11 @@
-body{
+@import "./media.scss";
+
+body {
     margin: 0;
-    background-color: red;
-    color: white;
-}
+    font-family: 'Muli', sans-serif;
+    background: #C238B5;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
