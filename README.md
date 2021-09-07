@@ -11,5 +11,7 @@ pasos para la instalacion de este proyecto
 - npm install webpack webpack-cli html-webpack-plugin html-loader --save-dev.
 7. En otra terminal con permisos de administrador instalamos json-server con el comando.
 - sudo npm install json-server -g.
-9. Finalmente  inicilizamos el archivo json con el comando. 
+9. Inicilizamos el archivo json con el comando. 
 - json-server initialState.json.
+10. corremos la aplicacion con el comando.
+- npm run start.
