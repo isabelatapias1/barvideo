@@ -25,7 +25,7 @@ pasos para la instalacion de este proyecto
 - npm install  --save react react-dom
 7. Instalamos webpack con los comandos.
 - npm install webpack webpack-cli html-webpack-plugin html-loader --save-dev
-- npm install webpack-dev-server –save-dev
+- npm install webpack-dev-server --save-dev
 9. En otra terminal con permisos de administrador instalamos json-server con el comando.
 - sudo npm install json-server -g
 10. Inicilizamos el archivo json con el comando. 
