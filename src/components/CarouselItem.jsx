@@ -1,7 +1,7 @@
 import React from "react";
 import '../assets/styles/components/CarouselItem.scss';
-import playIcon from '../assets/static/play-Icon.png';
-import plusIcon from '../assets/static/plus-Icon.png';
+import playIcon from '../assets/static/play-icon.png';
+import plusIcon from '../assets/static/plus-icon.png';
 
 const CarouselItem = ({ cover, title, year, contentRating, duration }) => (
     <div className="carousel-item">
